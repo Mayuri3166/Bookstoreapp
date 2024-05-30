@@ -1,0 +1,68 @@
+
+[
+    {
+        "id":1,
+        "name": "Story Book",
+        "title": "This book is very good for kids.",
+        "price":0,
+        "category": "FREE",
+        "image": "../public/home2.jpg"
+    },
+    {
+        "id":2,
+        "name": "Comedy Book",
+        "title": "This book is very good for kids.",
+        "price":20,
+        "category": "Entertainment",
+        "image": "https://c1.wallpaperflare.com/path/791/207/698/dark-gloomy-books-pages-af2f578ed6f52995b736001d293b446b.jpg"
+    },
+    {
+        "id":3,
+        "name": "Sports Book",
+        "title": "This book is very good for kids.",
+        "price":50,
+        "category": "Sports",
+        "image": "https://c1.wallpaperflare.com/path/791/207/698/dark-gloomy-books-pages-af2f578ed6f52995b736001d293b446b.jpg"
+    },
+    {
+        "id":4,
+        "name": "Music Book",
+        "title": "This book is very good for kids.",
+        "price":100,
+        "category": "Music",
+        "image": "https://c1.wallpaperflare.com/path/791/207/698/dark-gloomy-books-pages-af2f578ed6f52995b736001d293b446b.jpg"
+    },
+    {
+        "id":5,
+        "name": "Suspense Book",
+        "title": "This book is very good for kids.",
+        "price":0,
+        "category": "FREE",
+        "image": "https://c0.wallpaperflare.com/path/919/842/534/book-bindings-book-stack-bookcase-books-e9fe68e60fc40e0ef65638acec011d5c.jpg"
+    },
+    {
+        "id":6,
+        "name": "Food Book",
+        "title": "This book is very good for kids.",
+        "price":220,
+        "category": "Food",
+        "image": "https://c1.wallpaperflare.com/path/791/207/698/dark-gloomy-books-pages-af2f578ed6f52995b736001d293b446b.jpg"
+    },
+    {
+        "id":7,
+        "name": "Comedy Book",
+        "title": "This book is very good for kids.",
+        "price":0,
+        "category": "FREE",
+        "image": "https://c1.wallpaperflare.com/path/791/207/698/dark-gloomy-books-pages-af2f578ed6f52995b736001d293b446b.jpg"
+    },
+    {
+        "id":8,
+        "name": "Anime Book",
+        "title": "This book is very good for kids.",
+        "price":0,
+        "category": "FREE",
+        "image":"https://c0.wallpaperflare.com/path/919/842/534/book-bindings-book-stack-bookcase-books-e9fe68e60fc40e0ef65638acec011d5c.jpg"
+    }
+    
+]
