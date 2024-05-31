@@ -30,7 +30,7 @@
         "title": "This book is very good for kids.",
         "price":100,
         "category": "Music",
-        "image": "https://c1.wallpaperflare.com/path/791/207/698/dark-gloomy-books-pages-af2f578ed6f52995b736001d293b446b.jpg"
+        "image": "../public/home2.jpg"
     },
     {
         "id":5,

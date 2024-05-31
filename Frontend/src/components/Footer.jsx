@@ -19,7 +19,7 @@ function Footer() {
             </div>
         </nav> 
         <aside>
-            <p>Copyright © 2024 - Miss mayuri babaso mane</p>
+            <p>Copyright © 2024 - Mayuri Babaso Mane</p>
         </aside>
     </footer>
 </div>
