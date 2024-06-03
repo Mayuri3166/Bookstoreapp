@@ -10,7 +10,7 @@ import cors from "cors";
 const app = express();
 app.use(cors(
     {
-        origin: ["https://bookstoreapp-frontend.vercel.app/"],
+        origin: ["https://bookstoreapp-frontend.vercel.app"],
         methods: ["POST", "GET"],
         credentials: true,
     }
