@@ -1,5 +1,6 @@
 import React from 'react'
 import home2 from "../../public/home2.jpg"
+import { Link } from 'react-router-dom'
 
 export default function Banner() {
   return (
@@ -14,7 +15,7 @@ export default function Banner() {
                 <input type="text" className="grow" placeholder="Email" />
             </label>
             </div>
-            <button className="btn bg-black text-white border-none hover:bg-slate-800 duration:300 mt-6 btn-secondary mb-5">Secondary</button>
+            <Link to="/contact" className="btn bg-black text-white border-none hover:bg-slate-800 duration:300 mt-6 btn-secondary mb-5">Get in touch</Link>
         </div>
         <div className='order-1 md:order-2 w-full md:w-1/2 md:mt-30'>
             <img src={home2} className='w-90 h-90 mt-10 md:ml-5 shadow-lg' alt=''/>

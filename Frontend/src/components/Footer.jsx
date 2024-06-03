@@ -6,10 +6,10 @@ function Footer() {
     <hr className='border-gray-700 mt-10'/>
     <footer className="footer footer-center p-10 text-base-content rounded">
         <nav className="grid grid-flow-col gap-4">
-            <a href='' className="link link-hover">About us</a>
-            <a href="" className="link link-hover">Contact</a>
-            <a href='' className="link link-hover">Jobs</a>
-            <a href='' className="link link-hover">Press kit</a>
+            <a href='https://www.linkedin.com/in/mayuri-mane-157a131ab/' className="link link-hover">Linkedin</a>
+            <a href="/contact" className="link link-hover">Contact</a>
+            <a href='https://leetcode.com/mayurimane3166/' className="link link-hover">Leetcode</a>
+            <a href='https://github.com/Mayuri3166' className="link link-hover">Github</a>
         </nav> 
         <nav>
             <div className="grid grid-flow-col gap-4">

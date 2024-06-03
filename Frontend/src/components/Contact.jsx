@@ -31,7 +31,7 @@ export const ContactUs = () => {
       <input type="email" name="user_email" placeholder='Enter your email' required />
       <label>Message</label>
       <textarea  name="message" rows="6" placeholder='Enter your message' required />
-      <input type="submit"  className='bg-red-700 text-white rounded-md px-3 py-1 hover:bg-red-800 duration:200' value="Send" />
+      <input type="submit"  className='bg-red-700 cursor-pointer text-white rounded-md px-3 py-1 hover:bg-red-800 duration:200' value="Send" />
     </form>
     </div>
   );
